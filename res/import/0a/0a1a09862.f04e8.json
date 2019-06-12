@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"btn_coins","texture":"12050c804","rect":[253,2552,41,41],"offset":[0.5,-0.5],"originalSize":[46,46],"capInsets":[0,0,0,0]}},{"__type__":"cc.ParticleAsset","_name":"endpointcoin","_native":".plist","spriteFrame":{"__uuid__":"06NHNBwZJLg5VGviEW32a6"}}]
